@@ -57,6 +57,14 @@ footer {
     width: 100%;
 }
 
+/* Styling for the top link */
+.top-link {
+    display: block;
+    margin-top: 10px;
+    color: #3498db;
+    text-decoration: none;
+}
+
 /* Responsive design for smaller screens */
 @media (max-width: 600px) {
     nav ul li {
