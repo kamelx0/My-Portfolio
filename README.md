@@ -23,7 +23,8 @@ usage
 The website is simple to navigate. It includes a home page with various Egyptian cities. Clicking on a city reveals more information about its landmarks. Each landmark includes a brief description and a link to a related Wikipedia article for more detailed information.
 
 Screenshots
-![Screenshot of Cairo Landmark](./images/Screenshot%202024-09-15%20220204.png)
+![Screenshot of Egyptian Landmarks](https://github.com/kamelx0/egyptian-landmarks/blob/master/images/Screenshot%202024-09-15%20220204.png)
+
 
 
 Contributing
