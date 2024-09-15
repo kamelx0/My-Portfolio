@@ -3,9 +3,6 @@
 ## Introduction
 This project is a website that showcases famous landmarks in Egyptian cities. The website provides information about each city and its historical landmarks with links to relevant Wikipedia articles. The project is designed using **HTML**, **CSS**, and **JavaScript**.
 
-### Deployed Site:
-[Visit the Egyptian Landmarks Website](#)  <!-- ضع رابط الموقع إذا كان منشورًا على الإنترنت -->
-
 ### Author:
 [Kamel Bahaa Esawy](https://eg.linkedin.com/in/kamel-l-6b2513292)
 
@@ -26,6 +23,8 @@ usage
 The website is simple to navigate. It includes a home page with various Egyptian cities. Clicking on a city reveals more information about its landmarks. Each landmark includes a brief description and a link to a related Wikipedia article for more detailed information.
 
 Screenshots
+![Screenshot of Cairo Landmark](./images/Screenshot%202024-09-15%20220204.png)
+
 
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
