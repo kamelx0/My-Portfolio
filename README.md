@@ -1,33 +1,59 @@
-# City Information Project
+# Egyptian Landmarks Website
 
-This project is a website that provides information about different cities, including Cairo, Alexandria, and Luxor. It showcases the beauty and historical significance of each city.
+## Introduction
+This project is a website that showcases famous landmarks in Egyptian cities. The website provides information about each city and its historical landmarks with links to relevant Wikipedia articles. The project is designed using **HTML**, **CSS**, and **JavaScript**.
 
-## Team Member
-- **Kamel Esawy** (Worked alone on the project)
+### Deployed Site:
+[Visit the Egyptian Landmarks Website](#)  <!-- ضع رابط الموقع إذا كان منشورًا على الإنترنت -->
 
-## Project Inspiration
-The inspiration for this project came from a desire to provide an easy-to-navigate website that showcases the rich cultural history of Egypt's cities. The goal was to combine modern web development practices with content that highlights historical sites.
+### Author:
+[Kamel Bahaa Esawy](https://eg.linkedin.com/in/kamel-l-6b2513292)
 
-## Technologies Used
-- **HTML**
-- **CSS**
-- **JavaScript**
+## Installation
+To run the website locally, follow these steps:
 
-## Key Features
-- **Cairo**: Information and image of Cairo, along with a link to learn more on Wikipedia.
-- **Alexandria**: Information and image of Alexandria, along with a link to learn more on Wikipedia.
-- **Luxor**: Information and image of Luxor, along with a link to learn more on Wikipedia.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Kamelx0/egyptian-landmarks.git
 
-## Challenges Faced
-Throughout the project, I encountered a few challenges related to image display and website layout. However, I overcame these challenges by refining the code and using better design practices.
+Navigate to the project folder:
+cd egyptian-landmarks
+Open the index.html file in a web browser:
+open index.html  # For MacOS
+start index.html  # For Windows
+usage 
 
-## Learnings
-This project strengthened my skills in web development and increased my interest in working on future projects involving historical content.
+The website is simple to navigate. It includes a home page with various Egyptian cities. Clicking on a city reveals more information about its landmarks. Each landmark includes a brief description and a link to a related Wikipedia article for more detailed information.
 
-## Demo
-You can view the live demo of the project here: [GitHub Pages link] (Add the link once published).
+Screenshots
 
-## Contact
-- **GitHub**: [kamelx0](https://github.com/kamelx0)
-- **Email**: kamel.uwk21@gmail.com
-- **LinkedIn**: [Kamel Esawy](https://eg.linkedin.com/in/kamel-l-6b2513292)
+Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+Fork the project.
+Create a new feature branch.
+Commit your changes.
+Push to the branch.
+Open a pull request.
+Related Projects
+If you're interested in more web development projects, check out:
+
+WikiGraph
+Job Odyssey
+Licensing
+This project is licensed under the MIT License.
+
+Advanced Section (Optional)
+This project was inspired by my fascination with Egyptian history and its incredible landmarks. The biggest technical challenge was integrating the images with responsive design while ensuring optimal load times. I also had fun learning new JavaScript techniques for interactivity and dynamic content generation.
+
+In future iterations, I plan to add:
+
+Interactive maps for each city.
+A quiz feature to test users' knowledge of Egyptian landmarks.
+Language options for international visitors.
+Contact Information
+Created by: Kamel Bahaa Esawy
+
+Email: kamel.uwk21@gmail.com
+GitHub: Kamelx0
+LinkedIn: Kamel Bahaa Esawy
