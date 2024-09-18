@@ -18,7 +18,7 @@ The website is simple to navigate. It includes a home page with various Egyptian
 
 Screenshots 
 ## Screenshots
-![Screenshot of My Portfolio Project](https://github.com/Kamelx0/My-Portfolio-Project/blob/master/images/Screenshot.png)
+![Screenshot of My Portfolio Project](https://github.com/Kamelx0/My-Portfolio-Project/blob/master/images/Screenshot .png)
 
 
 
