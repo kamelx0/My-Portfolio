@@ -1,4 +1,4 @@
-#  My Portfolio Project
+# My Portfolio Project
 
 ## Introduction
 This project is a website that showcases famous landmarks in Egyptian cities. The website provides information about each city and its historical landmarks with links to relevant Wikipedia articles. The project is designed using **HTML**, **CSS**, and **JavaScript**.
@@ -11,20 +11,12 @@ To run the website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kamelx0/egyptian-landmarks.git
+   git clone https://github.com/Kamelx0/My-Portfolio-Project.git
 
-Navigate to the project folder:
-cd egyptian-landmarks
-Open the index.html file in a web browser:
-open index.html  # For MacOS
-start index.html  # For Windows
-usage 
-
+Usage
 The website is simple to navigate. It includes a home page with various Egyptian cities. Clicking on a city reveals more information about its landmarks. Each landmark includes a brief description and a link to a related Wikipedia article for more detailed information.
 
 Screenshots
-![Screenshot of Egyptian Landmarks](https://github.com/kamelx0/egyptian-landmarks/blob/master/images/Screenshot%202024-09-15%20220204.png)
-
 
 
 Contributing
