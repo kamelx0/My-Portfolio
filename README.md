@@ -1,4 +1,4 @@
-# Egyptian Landmarks Website
+#  My Portfolio Project
 
 ## Introduction
 This project is a website that showcases famous landmarks in Egyptian cities. The website provides information about each city and its historical landmarks with links to relevant Wikipedia articles. The project is designed using **HTML**, **CSS**, and **JavaScript**.
