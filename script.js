@@ -1,7 +1,7 @@
 // Object to store personal data
 const personalInfo = {
     name: "Kamel Bahaa Esawy",
-    github: "https://github.com/Kim6-9",
+    github: "https://github.com/kamelx0",
     email: "kamel.uwk21@gmail.com",
     linkedin: "https://eg.linkedin.com/in/kamel-l-6b2513292"
 };
