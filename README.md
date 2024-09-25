@@ -11,14 +11,14 @@ To run the website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kamelx0/My-Portfolio-Project.git
+   git clone https://github.com/Kim6-9/My-Portfolio-Project.git
 
 Usage
 The website is simple to navigate. It includes a home page with various Egyptian cities. Clicking on a city reveals more information about its landmarks. Each landmark includes a brief description and a link to a related Wikipedia article for more detailed information.
 
 Screenshots 
 ## Screenshots
-![Screenshot of My Portfolio Project](https://github.com/Kamelx0/My-Portfolio-Project/blob/master/images/Screenshot .png)
+![Screenshot of My Portfolio Project](https://github.com/Kim6-9/My-Portfolio-Project/blob/master/images/Screenshot .png)
 
 
 
@@ -50,5 +50,5 @@ Contact Information
 Created by: Kamel Bahaa Esawy
 
 Email: kamel.uwk21@gmail.com
-GitHub: Kamelx0
+GitHub: Kim6-9
 LinkedIn: Kamel Bahaa Esawy
